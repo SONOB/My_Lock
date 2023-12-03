@@ -1,3 +1,4 @@
+#병신
 import cv2
 import time
 import ftplib
