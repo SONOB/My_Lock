@@ -43,3 +43,7 @@ i2cdetect -y 1 을 치면 행열로 연결된 숫자가 나오는데 저희의 �
 
 git clone https://github.com/eleparts/RPi_I2C_LCD_driver import를 위한 파일
 
+
+카카오톡
+카카오톡 관련한 부분은 다른 리포지토리 내 kakao파일을 확인해 작업 진행해 주시면 됩니다.
+동일하게 josn파일을 만들기 때문에 json이름수정도 필수입니다.
