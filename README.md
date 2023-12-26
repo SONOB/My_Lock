@@ -40,7 +40,7 @@ $ sudo pip install cmake
 $ sudo apt-get install libatlas-base-dev
 $ sudo pip install dlib
 # 참고: dlib 설치 시 시간이 많이 소요될 수 있습니다. 설치가 실패할 경우,
- 직접 라이브러리를 다운로드하여 설치하는 방법도 고려해 보시기 바랍니다.
+# 직접 라이브러리를 다운로드하여 설치하는 방법도 고려해 보시기 바랍니다.
 ```
 ## LCD 라이브러리 설치
 ```bash
