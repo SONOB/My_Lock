@@ -50,3 +50,8 @@ $ git clone https://github.com/eleparts/RPi_I2C_LCD_driver # 패키지 다운로
 $ cd RPi_I2C_LCD_driver # 패키지 설치 후 해당 디렉토리로 이동합니다. 
 $ python3 example.py # 이 명령어를 통해 LCD 동작 테스트를 진행합니다. 
 ```
+## 웹페이지
+```bash
+웹페이지 관련 파일은 아래의 링크를 참조해 주세요
+웹제작 담당 팀원: https://github.com/JangSeongYeong/doorLockManagement
+```
