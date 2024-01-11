@@ -53,6 +53,5 @@ $ python3 example.py # 이 명령어를 통해 LCD 동작 테스트를 진행합
 ## 웹페이지
 ```bash
 웹페이지 관련 파일은 아래의 링크를 참조해 주세요
-웹제작 담당 팀원: <a href="https://github.com/JangSeongYeong/doorLockManagement">https://github.com/JangSeongYeong/doorLockManagement<a>
-<p>
+웹제작 담당 팀원: <href="https://github.com/JangSeongYeong/doorLockManagement">
 ```
